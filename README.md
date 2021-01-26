@@ -28,7 +28,7 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 
 <br />
 
-### Frameworks
+### Favourite Frameworks
 
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />][django]
 
@@ -38,7 +38,13 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 
 <br />
 
-### Tools
+### Favourite Tools
+
+<img align="left" alt="Coffee" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />
+
+[<img align="left" alt="Spotify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify]
+
+<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg" />
 
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
 
@@ -58,6 +64,12 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 
 <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />
 
+<img align="left" alt="Dark Reader" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/darkreader.svg" />
+
+<img align="left" alt="Dashlane" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dashlane.svg" />
+
+<img align="left" alt="Sentry" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sentry.svg" />
+
 <br />
 <br />
 
@@ -72,3 +84,4 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 [vuejs]: https://vuejs.org/
 [django]: https://www.djangoproject.com/
 [laravel]: https://laravel.com/
+[spotify]: https://open.spotify.com/user/11129292558?si=NmRDLF2HQFqQKOIFZSZz_w
