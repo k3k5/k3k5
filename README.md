@@ -8,7 +8,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 - 🌱 I’m currently learning neuronal networks implementation
 
 ### Connect with me:
-<br />
 
 [<img align="left" alt="Sebastian Keck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sebastian Keck | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
@@ -16,10 +15,8 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-<br />
 
 ### Languages
-<br />
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
@@ -31,7 +28,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 <br />
 
 ### Frameworks
-<br />
 
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
 
@@ -43,7 +39,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 <br />
 
 ### Tools
-<br />
 
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
 
