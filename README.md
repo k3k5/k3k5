@@ -10,7 +10,7 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 ### Connect with me:
 
 [<img align="left" alt="Sebastian Keck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sebastian Keck | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.js" />][xing]
+[<img align="left" alt="Sebastian Keck | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
 [<img align="left" alt="Sebastian Keck | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
