@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in
+I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast currently based in
 <br />
-**📍 Regensburg, Germany**
+<b><center> 📍 Regensburg, Germany </center></b>
+<br />
 
 ### Overview
 
