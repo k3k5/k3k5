@@ -1,11 +1,18 @@
 ### Hi there 👋
 
-I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in Regensburg, Germany
+I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in 📍 Regensburg, Germany
+
+<br />
+<br />
 
 ### Overview
 
 - 🔭 I’m currently working on multiple small projects with Laravel and the Django framework
 - 🌱 I’m currently learning neuronal networks implementation
+- 🧐 Always curious about new technologies
+
+<br />
+<br />
 
 ### Connect with me:
 
@@ -15,8 +22,11 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+<br />
 
-### Languages
+### Favourite Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3k5&layout=compact)](Stats)
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
@@ -29,18 +39,18 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 
 ### Frameworks
 
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
+[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />][django]
 
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />
+[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
 
-<img align="left" alt="Vue JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />
+[<img align="left" alt="Vue JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vuejs]
 
 <br />
 <br />
 
 ### Tools
 
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 
@@ -52,7 +62,9 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][gitlab]
 
 <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />
 
@@ -63,3 +75,11 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in R
 [facebook]: https://www.facebook.com/k3k5.r
 [linkedin]: https://www.linkedin.com/in/sebastian-keck-b98414190/
 [xing]: https://www.xing.com/profile/Sebastian_Keck9/cv/
+[gitlab]: https://gitlab.com/k3k5_r
+[github]: https://github.com/k3k5
+[docker]: https://www.docker.com/
+[vuejs]: https://vuejs.org/
+[django]: https://www.djangoproject.com/
+[laravel]: https://laravel.com/
+
+![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=k3k5&show_icons=true&theme=radical)
