@@ -15,6 +15,8 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 [<img align="left" alt="Sebastian Keck | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
+
 ### Favourite Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3k5&layout=compact)](Stats)
@@ -25,6 +27,8 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 
+<br />
+
 ### Frameworks
 
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />][django]
@@ -32,6 +36,8 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 [<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
 
 [<img align="left" alt="Vue JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vuejs]
+
+<br />
 
 ### Tools
 
