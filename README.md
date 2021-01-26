@@ -8,12 +8,13 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 - ğŸŒ± Iâ€™m currently learning neuronal networks implementation
 - ğŸ§ Always curious about new technologies
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="Sebastian Keck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sebastian Keck | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
 [<img align="left" alt="Sebastian Keck | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sebastian Keck | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -53,7 +54,7 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][gitlab]
+[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />][gitlab]
 
 <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />
 
