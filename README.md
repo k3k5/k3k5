@@ -2,17 +2,11 @@
 
 I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğŸ“ Regensburg, Germany
 
-<br />
-<br />
-
 ### Overview
 
 - ğŸ”­ Iâ€™m currently working on multiple small projects with Laravel and the Django framework
 - ğŸŒ± Iâ€™m currently learning neuronal networks implementation
 - ğŸ§ Always curious about new technologies
-
-<br />
-<br />
 
 ### Connect with me:
 
@@ -20,9 +14,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 [<img align="left" alt="Sebastian Keck | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
 [<img align="left" alt="Sebastian Keck | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Sebastian Keck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-<br />
 
 ### Favourite Languages
 
@@ -34,9 +25,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 
-<br />
-<br />
-
 ### Frameworks
 
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />][django]
@@ -44,9 +32,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 [<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
 
 [<img align="left" alt="Vue JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vuejs]
-
-<br />
-<br />
 
 ### Tools
 
@@ -68,6 +53,7 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ğ
 
 <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />
 
+<br />
 <br />
 
 [medium]: https://medium.com/@sebastiankeck7
