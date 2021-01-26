@@ -19,8 +19,6 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 
 ### Favourite Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3k5&layout=compact)](Stats)
-
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
@@ -73,5 +71,3 @@ I'm Sebastian, a Developer, Project Manager and Clean Code enthusiast based in ð
 [vuejs]: https://vuejs.org/
 [django]: https://www.djangoproject.com/
 [laravel]: https://laravel.com/
-
-![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=k3k5&show_icons=true&theme=radical)
